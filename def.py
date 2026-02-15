@@ -1,0 +1,12 @@
+def cong(a,b):
+    return (a+b)
+def tru(a,b):
+    return (a-b)
+def nhan(a,b):
+    return (a*b)
+def chia(a,b):
+    return (a/b)
+def can(a):
+    return (a**0.5)
+def binhphuong(a):
+    return (a**2)
